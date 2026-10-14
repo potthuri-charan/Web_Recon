@@ -1,0 +1,7 @@
+# requirements.txt
+# Python packages needed by recon_kali.py
+# Install with:  pip install -r requirements.txt
+# On Kali, use:  pip install --break-system-packages -r requirements.txt
+#           or:  pipx install reportlab   (for CLI tools)
+
+reportlab>=4.0.0
